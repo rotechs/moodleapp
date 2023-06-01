@@ -86,7 +86,15 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "sites": [],
+    "sites": [
+    {
+        "name": "Hopscotch",
+        "alias": "Hopscotch School",
+        "url": "https://www.portal.hopscotchschoolng.com/",
+        "staging": false
+    }
+    ],
+    ],
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
